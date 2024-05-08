@@ -7,3 +7,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # CounterApp-React
+![image](https://github.com/DavidCastelloBatet/CounterApp-React/assets/56063955/07cdd176-70c1-407e-aa63-c301dea2e452)
