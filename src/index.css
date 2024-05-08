@@ -1,0 +1,42 @@
+html,
+body {
+  background-color: #21232a;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.3rem;
+  padding: 70px;
+  text-align: center;
+}
+
+.positive {
+  color: green;
+}
+
+.negative {
+  color: red;
+}
+
+.botonWrap {
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  background-color: #4caf50; /* Color de fondo del botón */
+  border: none;
+  color: white; /* Color del texto del botón */
+  padding: 15px 32px; /* Espaciado interno del botón */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px; /* Borde redondeado */
+  transition-duration: 0.4s; /* Duración de la transición */
+}
+
+button:hover {
+  background-color: #45a049; /* Cambio de color al pasar el cursor sobre el botón */
+}
